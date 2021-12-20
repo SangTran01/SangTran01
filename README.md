@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SangTran01
+- 👀 I’m interested in gaming, reading, and development on the side
+- 🌱 I’m currently learning android development
+- 💞️ I’m looking to collaborate on small android projects
+- 📫 How to reach me ...
